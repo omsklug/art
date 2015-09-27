@@ -16,8 +16,8 @@
    id="svg7313"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="DIY_banner1920x1080.dev.svg"
-   inkscape:export-filename="/home/hitecnologys/Projects/OmskLUG/art/streaming/DIY_banner1920x1080.dev.png"
+   sodipodi:docname="CODING_banner1920x1080.svg"
+   inkscape:export-filename="/home/hitecnologys/Projects/OmskLUG/art/streaming/CODING_banner1920x1080.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -2264,16 +2264,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35000001"
-     inkscape:cx="-93.464977"
-     inkscape:cy="732.48594"
+     inkscape:cx="-547.75068"
+     inkscape:cy="92.485958"
      inkscape:document-units="px"
-     inkscape:current-layer="g37746"
+     inkscape:current-layer="g26538"
      showgrid="false"
      inkscape:window-width="1916"
      inkscape:window-height="1040"
      inkscape:window-x="1600"
      inkscape:window-y="18"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="0"
+     inkscape:snap-grids="false" />
   <metadata
      id="metadata7318">
     <rdf:RDF>
@@ -2282,7 +2283,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2314,10 +2315,11 @@
              style="fill:#ffffff;fill-opacity:1;stroke:none" />
           <g
              transform="translate(3.1582478e-6,0.35714205)"
-             id="g26538">
+             id="g26538"
+             style="fill:#2ca02c">
             <text
                xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Ubuntu-Title;-inkscape-font-specification:Ubuntu-Title;letter-spacing:0px;word-spacing:0px;fill:#0000cc;fill-opacity:1;stroke:none"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Ubuntu-Title;-inkscape-font-specification:Ubuntu-Title;letter-spacing:0px;word-spacing:0px;fill:#2ca02c;fill-opacity:1;stroke:none"
                x="-103.71769"
                y="857.7168"
                id="text26540"
@@ -2325,11 +2327,11 @@
                  sodipodi:role="line"
                  x="-103.71769"
                  y="857.7168"
-                 style="font-weight:bold;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';fill:#00afdd;fill-opacity:0.61960784;font-size:11.43732932px"
+                 style="font-weight:bold;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';fill:#2ca02c;fill-opacity:0.61960784;font-size:11.02885328px"
                  id="tspan38257">DEV</tspan></text>
             <path
                sodipodi:type="star"
-               style="fill:#00afdd;fill-opacity:0.61960787;fill-rule:evenodd;stroke:none"
+               style="fill:#2ca02c;fill-opacity:0.61960787;fill-rule:evenodd;stroke:none"
                id="path26544"
                sodipodi:sides="5"
                sodipodi:cx="-18.182747"
@@ -2368,10 +2370,11 @@
              style="fill:#ffffff;fill-opacity:1;stroke:none" />
           <g
              transform="translate(3.1582478e-6,0.35714205)"
-             id="g26538-3">
+             id="g26538-3"
+             style="fill:#008000">
             <text
                xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Ubuntu-Title;-inkscape-font-specification:Ubuntu-Title;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Ubuntu-Title;-inkscape-font-specification:Ubuntu-Title;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none"
                x="-103.71769"
                y="857.7168"
                id="text26540-7"
@@ -2380,10 +2383,10 @@
                  id="tspan26542-4"
                  x="-103.71769"
                  y="857.7168"
-                 style="font-weight:bold;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';fill:#0087cd;fill-opacity:0.87058824;font-size:11.43732932px">DEV</tspan></text>
+                 style="font-weight:bold;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';fill:#008000;fill-opacity:0.87058824;font-size:11.02885328px">DEV</tspan></text>
             <path
                sodipodi:type="star"
-               style="fill:#0087cd;fill-opacity:0.87058824;fill-rule:evenodd;stroke:none"
+               style="fill:#008000;fill-opacity:0.87058824;fill-rule:evenodd;stroke:none"
                id="path26544-7"
                sodipodi:sides="5"
                sodipodi:cx="-18.182747"
