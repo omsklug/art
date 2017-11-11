@@ -2263,11 +2263,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.50000001"
-     inkscape:cx="588.94988"
-     inkscape:cy="582.28338"
+     inkscape:zoom="0.125"
+     inkscape:cx="1520.6044"
+     inkscape:cy="146.88147"
      inkscape:document-units="px"
-     inkscape:current-layer="g26106"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="744"
@@ -2282,7 +2282,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2293,7 +2293,7 @@
      transform="translate(0,27.637817)">
     <g
        id="g26106"
-       transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,-2622.3168,325.22216)">
+       transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,-2467.2498,172.44777)">
       <g
          inkscape:tile-h="100"
          inkscape:tile-w="219.64592"
@@ -2307,9 +2307,9 @@
            id="g38231-4">
           <rect
              y="845.57648"
-             x="-114.99999"
+             x="-115.73124"
              height="16.428572"
-             width="32.5"
+             width="36.448586"
              id="rect38233-1"
              style="fill:#ffffff;fill-opacity:1;stroke:none" />
           <g
@@ -2362,9 +2362,9 @@
            id="g38245-9">
           <rect
              y="845.57648"
-             x="-114.99999"
-             height="16.428572"
-             width="32.5"
+             x="-115.08125"
+             height="17.660715"
+             width="36.237499"
              id="rect38247-9"
              style="fill:#ffffff;fill-opacity:1;stroke:none" />
           <g
@@ -2404,14 +2404,6 @@
           </g>
         </g>
       </g>
-      <use
-         id="use23606"
-         xlink:href="#use37270-4-5"
-         inkscape:tiled-clone-of="#use37270-4-5"
-         y="0"
-         x="0"
-         width="1920"
-         height="1080" />
       <use
          id="use23608"
          transform="translate(219.64592,100)"
@@ -8024,14 +8016,6 @@
          transform="translate(5271.5022,2400)"
          xlink:href="#use37270-4-5"
          inkscape:tiled-clone-of="#use37270-4-5"
-         y="0"
-         x="0"
-         width="1920"
-         height="1080" />
-      <use
-         id="use24856"
-         xlink:href="#use36830-9-1"
-         inkscape:tiled-clone-of="#use36830-9-1"
          y="0"
          x="0"
          width="1920"
